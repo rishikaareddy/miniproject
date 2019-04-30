@@ -1,2 +1,2 @@
-# srikar_Django_project2
+# Django_project
 calculator
